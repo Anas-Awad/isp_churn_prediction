@@ -46,7 +46,7 @@ window.onload = () => {
       leftYears.value,
       timesFail.value
     );
-    let url = `https://gentle-harbor-75783.herokuapp.com/predict?is_tv_subscriber=${
+    let url = `https://churn-app.herokuapp.com/predict?is_tv_subscriber=${
       tv.checked ? 1 : 0
     }&subscription_age=${subYears.value}&remaining_contract=${
       leftYears.value
