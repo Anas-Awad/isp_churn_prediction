@@ -15,4 +15,4 @@ as a final step starting to prepare the data for the modeling phase and lastly c
 https://www.youtube.com/watch?v=E_rj_ckSLow&list=PLCGweKdBhoY7nJyRlSZ-AmFLmjfi15eoZ
 
 ## applink
-https://churn-app.herokuapp.com/predict?is_tv_subscriber=1&subscription_age=24&remaining_contract=3.4&service_failure_count=0&download_avg=50
+https://anas-awad.github.io/isp_churn_prediction/
